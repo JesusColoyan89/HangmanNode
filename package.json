@@ -18,6 +18,8 @@
   "homepage": "https://github.com/JesusColoyan89/HangmanNode#readme",
   "dependencies": {
     "inquire": "^0.4.8",
+    "inquirer": "^4.0.0",
+    "is-letter": "^1.1.1",
     "require": "^2.4.20"
   }
 }
